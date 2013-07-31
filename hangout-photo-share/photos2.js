@@ -182,7 +182,7 @@ function fetch_albums() {
       $("#albums").html("No albums found...");
       $("#search_photos").html("");
     }*/
-  }, "jsonp");
+  });
 }
 
 function state_change() {
