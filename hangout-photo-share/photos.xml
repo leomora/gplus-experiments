@@ -20,11 +20,11 @@
   </ModulePrefs>
   <Content type="html">
     <![CDATA[
-    <link rel="stylesheet" type="text/css" href="<YOUR_PATH>photos.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/photos.css">
     <base target="_blank">
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="//hangoutsapi.talkgadget.google.com/hangouts/api/hangout.js?v=1.0"></script>
-    <script src="<YOUR_PATH>photos2.js"></script>
+    <script src="<photos2.js"></script>
     <div id="search_panel">
       <div id="search">
         <div id="search_albums">
@@ -34,18 +34,18 @@
         <div id="search_photos">Choose an album above.</div>
       </div>
       <div id="search_switch">
-        <img id="collapse_search" src="<YOUR_PATH>images/collapse.png" alt="Hide search panel">
-        <img id="expand_search" src="<YOUR_PATH>images/expand.png" alt="Show search panel" style="display: none;" >
+        <img id="collapse_search" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/collapse.png" alt="Hide search panel">
+        <img id="expand_search" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/expand.png" alt="Show search panel" style="display: none;" >
       </div>
     </div>
     <div id="contents">
-      <div id="contents_pic"><img src="<YOUR_PATH>images/preview.jpg" class="photo"></div>
+      <div id="contents_pic"><img src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/preview.jpg" class="photo"></div>
       <div id="contents_nav">
         <table style="width: 100%">
           <tr>
-            <td style="width: 50px; padding-left: 5px; text-align: left;"><img id="prev" alt="previous photo" src="<YOUR_PATH>images/prev.png" style="display: none;"></td>
+            <td style="width: 50px; padding-left: 5px; text-align: left;"><img id="prev" alt="previous photo" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/prev.png" style="display: none;"></td>
             <td id="contents_text"></td>
-            <td style="width: 50px; padding-right: 5px; text-align: right;"><img id="next" alt="next photo" src="<YOUR_PATH>images/next.png" style="display: none;"></td>
+            <td style="width: 50px; padding-right: 5px; text-align: right;"><img id="next" alt="next photo" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/next.png" style="display: none;"></td>
           </tr>
         </table>
       </div>
