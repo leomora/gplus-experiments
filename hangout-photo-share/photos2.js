@@ -12,7 +12,7 @@
  */
 
 var
-  HOST = "https://raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/",
+  HOST = "//raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/",
   pic_url = "",
   pic_title = "",
   pic_author = "",
