@@ -20,11 +20,11 @@
   </ModulePrefs>
   <Content type="html">
     <![CDATA[
-    <link rel="stylesheet" type="text/css" href="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/photos.css">
+    <link rel="stylesheet" type="text/css" href="https://raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/photos.css">
     <base target="_blank">
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="//hangoutsapi.talkgadget.google.com/hangouts/api/hangout.js?v=1.0"></script>
-    <script src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/photos2.js"></script>
+    <script src="https://raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/photos2.js"></script>
     <div id="search_panel">
       <div id="search">
         <div id="search_albums">
@@ -34,8 +34,8 @@
         <div id="search_photos">Choose an album above.</div>
       </div>
       <div id="search_switch">
-        <img id="collapse_search" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/collapse.png" alt="Hide search panel">
-        <img id="expand_search" src="https://github.com/leomora/gplus-experiments/tree/master/hangout-photo-share/images/expand.png" alt="Show search panel" style="display: none;" >
+        <img id="collapse_search" src="https://raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/images/collapse.png" alt="Hide search panel">
+        <img id="expand_search" src="https://raw.github.com/leomora/gplus-experiments/master/hangout-photo-share/images/expand.png" alt="Show search panel" style="display: none;" >
       </div>
     </div>
     <div id="contents">
