@@ -155,7 +155,7 @@ function fetch_albums() {
   albums.length = 0;
   $("#albums").html("<img src=\"" + HOST + "images/spinner.gif\" alt=\"searching\"> Searching for albums...");
   $.get("https://picasaweb.google.com/data/feed/api/user/" + author_id , function (data) {
-    console.log("GOT URL");/*
+    console.log(data);/*
     if (data.feed && data.feed.entry && data.feed.entry.length > 0) {
       
       
